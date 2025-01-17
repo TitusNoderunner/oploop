@@ -8,7 +8,7 @@ ACCOUNTS_FILE = "accounts.txt"
 PROXIES_FILE = "proxy.txt"
 TOKEN_FILE = "tokens.txt"
 
-INVITE_CODE = "ol41fe134b"
+INVITE_CODE = "ole3d3832d"
 REGISTER_URL = "https://api.openloop.so/users/register"
 LOGIN_URL = "https://api.openloop.so/users/login"
 
