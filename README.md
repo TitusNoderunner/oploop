@@ -17,8 +17,8 @@ Automate OpenLoop depin mining with this Python based script for VPS, managing m
 
 #Get Proxies IP address Socks5 
 
-1. Create a Account in (https://dataimpulse.com/?aff=74968)
-2. Go To (https://dataimpulse.com/residential-proxies) and buy the below plan
+1. Create a Account in https://dataimpulse.com/?aff=74968
+2. Go To https://dataimpulse.com/residential-proxies and buy the below plan
 3. ![Screenshot 2025-01-17 093137](https://github.com/user-attachments/assets/3c42df7c-7e58-4c57-bc98-98d6d2a79cad)
 4. **Best** - You can use Crypto to Pay here !!!
 5. Now go to DashBoard
@@ -40,7 +40,7 @@ Automate OpenLoop depin mining with this Python based script for VPS, managing m
 
 Before running the script, ensure you have Python installed on your machine. Then, install the necessary Python packages using:
 
-1. ``` git clone https://github.com/Solana0x/openloop.git ```
+1. ``` git clone [https://github.com/TitusNoderunner/oploop.git] ```
 2. ``` cd openloop ```
 3. ``` pip install -r requirements.txt ```
 4. Replace `Invite code` in `reg.py` File Line ```11```.
@@ -54,5 +54,5 @@ Before running the script, ensure you have Python installed on your machine. The
 
 # SOCIALS -
 
-- **Telegram** - (https://t.me/TitusNoderunners)
-- **Facebook (Private)** - (https://www.facebook.com/groups/noderunners)
+- **Telegram** - https://t.me/TitusNoderunners
+- **Facebook (Private)** - https://www.facebook.com/groups/noderunners
