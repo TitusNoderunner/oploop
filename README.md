@@ -17,14 +17,14 @@ Automate OpenLoop depin mining with this Python based script for VPS, managing m
 
 #Get Proxies IP address Socks5 
 
-1. Create a Account in https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba
-2. Go To https://app.proxies.fo/plans and buy the below plan
-3. ![image](https://github.com/user-attachments/assets/5453eabd-0a09-49f7-b004-1ca4617b9f8a)
-4. **Best** - You can use Crypto and Binance to Pay here !!!
-5. Now go to DashBoard and `click Go to Generator` button
+1. Create a Account in (https://dataimpulse.com/?aff=74968)
+2. Go To (https://dataimpulse.com/residential-proxies) and buy the below plan
+3. ![Screenshot 2025-01-17 093137](https://github.com/user-attachments/assets/3c42df7c-7e58-4c57-bc98-98d6d2a79cad)
+4. **Best** - You can use Crypto to Pay here !!!
+5. Now go to DashBoard
 6. Now change the Proxy formate to ` USER:PASS@HOST:PORT ` and use ` HTTP` in proxy count write 200 or any number.
 7. Now Click on Save to generate.
-8. ![image](https://github.com/user-attachments/assets/010753b5-1112-48c0-9a40-6b00189abd10)
+8. !![Screenshot 2025-01-17 094914](https://github.com/user-attachments/assets/ac2a3892-312c-4271-a9e4-6a68cc641f27)
 9. You can use any amount of Proxy You wanted the total pool size is 25k PROXIES.
 
 ## Requirements
@@ -33,8 +33,8 @@ Automate OpenLoop depin mining with this Python based script for VPS, managing m
 - Python (install Python By - https://www.python.org/downloads/ [windows/mac]) or Ubuntu Server [`sudo apt install python3`]
 - VPS Server ! You can get Via AWS free Tier or Google Free tier or any online for just ~ 2-5$ per month
 - Proxy Server - Buy Only ISP Residential Proxies to Earn $GRASS else you will earn 0% on data Centers / Free Cheap proxies (Best proxy providers are)
-- Proxies.fo -  [https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba](https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba) [Buy Only 1GB Plan Enough for 1-6 months and you get Unlimited Accounts or proxies]
-- Light Node (for VPS) - [https://www.lightnode.com/?inviteCode=OUMJXM&promoteWay=LINK](https://www.lightnode.com/?inviteCode=OUMJXM&promoteWay=LINK)
+- Proxies -  https://dataimpulse.com/?aff=74968  |.  https://proxy.cc/?invitation_code=VZ1JKL
+
   
 ## SETPS TO RUN THE CODE -
 
@@ -52,9 +52,7 @@ Before running the script, ensure you have Python installed on your machine. The
 
 ![image](https://github.com/user-attachments/assets/a2350548-f56a-4905-a7a9-b83484b1a8d1)
 
-## FOR ANY KIND OF HELP CONTACT : ` 0xphatom ` on Discord  https://discord.com/users/979641024215416842
-
 # SOCIALS -
 
-- **Telegram** - [https://t.me/phantomoalpha](https://t.me/phantomoalpha)
-- **Discord** - [https://discord.gg/pGJSPtp9zz](https://discord.gg/pGJSPtp9zz)
+- **Telegram** - (https://t.me/TitusNoderunners)
+- **Facebook (Private)** - (https://www.facebook.com/groups/noderunners)
